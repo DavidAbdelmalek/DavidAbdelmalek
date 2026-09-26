@@ -110,6 +110,25 @@ from {{ ref('real_experience') }}  -- nothing invented, all tested
 - **Microsoft Certified: Azure Administrator Associate (AZ-104)** — [credential](https://learn.microsoft.com/en-us/users/davidabdelmalek-9866/credentials/9a01048d318f1a79)
 - **Microsoft Certified: Azure Fundamentals (AZ-900)** — [credential](https://www.credly.com/badges/3fa3064d-cad8-4b62-97a5-dda86aefa22f/public_url)
 
+### Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DavidAbdelmalek/DavidAbdelmalek/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DavidAbdelmalek/DavidAbdelmalek/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="165" />
+  <img src="https://raw.githubusercontent.com/DavidAbdelmalek/DavidAbdelmalek/main/profile-summary-card-output/tokyonight/3-stats.svg" height="165" />
+  <img src="https://streak-stats.demolab.com?user=DavidAbdelmalek&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidAbdelmalek/DavidAbdelmalek/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidAbdelmalek/DavidAbdelmalek/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DavidAbdelmalek/DavidAbdelmalek/output/github-snake.svg" />
+  </picture>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:29B5E8,50:203A43,100:0F2027&height=110&section=footer" />
 </p>
