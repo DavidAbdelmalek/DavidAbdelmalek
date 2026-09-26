@@ -41,8 +41,6 @@ from {{ ref('real_experience') }}  -- nothing invented, all tested
 
 ## 💼 EXPERIENCE
 
-<img align="right" src="assets/developer.gif" width="220" alt="Developer at work" />
-
 ### Senior Data Management & AI Consultant @ INFORM DataLab
 *Jun 2023 – Present · Aachen, Germany*
 - **Pharma SAP integration:** Snowflake Data Vault 2.0 warehouse for a DACH pharma group. SAP ECC and S/4 ingested via Fivetran, 1000+ dbt models, P&L and sales-order marts served to Power BI.
@@ -105,33 +103,12 @@ from {{ ref('real_experience') }}  -- nothing invented, all tested
 - **[Agentic Text-to-SQL](https://github.com/DavidAbdelmalek/agentic-text-to-sql)** — plain-English questions answered with safely generated, read-only SQL over a dbt star schema. LangGraph, FastAPI, Docker.
 - **[Ontology vs Semantic Layer](https://github.com/DavidAbdelmalek/hubspot-ontology-snowflake)** — two AI agents on identical HubSpot data in Snowflake. On a multi-hop question the ontology agent found the full set in one pass; the typed-table agent missed connections. [Write-up on Medium →](https://medium.com/@davidonsy123/ontology-vs-a-plain-semantic-layer-testing-ai-agents-on-hubspot-in-snowflake-5245cf7c5a46)
 
-### Certifications
+## 🏅 CERTIFICATIONS
 
-<p>
-  <a href="https://www.credly.com/badges/3fa3064d-cad8-4b62-97a5-dda86aefa22f/public_url"><img src="https://img.shields.io/badge/AZ--900-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/DP--203-Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <a href="https://learn.microsoft.com/en-us/users/davidabdelmalek-9866/credentials/9a01048d318f1a79"><img src="https://img.shields.io/badge/AZ--104-Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/DavidAbdelmalek-9866/EBFD9A660D6CA148?sharingId=DE2BC44C85601C1F"><img src="https://img.shields.io/badge/AZ--305-Solutions%20Architect%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
-</p>
-
-### Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DavidAbdelmalek/DavidAbdelmalek/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DavidAbdelmalek/DavidAbdelmalek/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="165" />
-  <img src="https://raw.githubusercontent.com/DavidAbdelmalek/DavidAbdelmalek/main/profile-summary-card-output/tokyonight/3-stats.svg" height="165" />
-  <img src="https://streak-stats.demolab.com?user=DavidAbdelmalek&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidAbdelmalek/DavidAbdelmalek/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidAbdelmalek/DavidAbdelmalek/output/github-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DavidAbdelmalek/DavidAbdelmalek/output/github-snake.svg" />
-  </picture>
-</p>
+- **Microsoft Certified: Azure Solutions Architect Expert (AZ-305)** — [credential](https://learn.microsoft.com/api/credentials/share/en-us/DavidAbdelmalek-9866/EBFD9A660D6CA148?sharingId=DE2BC44C85601C1F)
+- **Microsoft Certified: Azure Data Engineer Associate (DP-203)**
+- **Microsoft Certified: Azure Administrator Associate (AZ-104)** — [credential](https://learn.microsoft.com/en-us/users/davidabdelmalek-9866/credentials/9a01048d318f1a79)
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** — [credential](https://www.credly.com/badges/3fa3064d-cad8-4b62-97a5-dda86aefa22f/public_url)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:29B5E8,50:203A43,100:0F2027&height=110&section=footer" />
